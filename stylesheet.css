@@ -343,13 +343,13 @@ university {
 }
 
 .profile-name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'sans-serif', Verdana, Helvetica, sans-serif;
   font-size: 32px;
   text-align: center;
 }
 
 .profile-bio {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Helvetica', Verdana, Helvetica, sans-serif;
   font-size: 16px;
   text-align: justify;
   margin-bottom: 20px;
@@ -362,7 +362,7 @@ university {
 }
 
 .profile-links {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Verdana', Verdana, Helvetica, sans-serif;
   font-size: 16px;
   text-align: center;
   margin-top: 20px;
