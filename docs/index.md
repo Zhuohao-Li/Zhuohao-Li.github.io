@@ -4,13 +4,13 @@ hide:
   - toc
 ---
 
-# Xichen Pan ![Image title](images/por.jpg){ align=right style="width:7.5em; margin-left: 7.5em; margin-top: 0.5em; border-radius: 1em;"}
+# Zhuohao Li ![Image title](images/por.jpg){ align=right style="width:7.5em; margin-left: 7.5em; margin-top: 0.5em; border-radius: 1em;"}
 
-*:fontawesome-solid-building: Office: [424, 60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79)*
+_:fontawesome-solid-building: Office: [424, 60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79)_
 
-*:fontawesome-solid-inbox: Work Email: [xichenpan [at] nyu [dot] edu](mailto:xichenpan@nyu.edu)*
+_:fontawesome-solid-inbox: Work Email: [xichenpan [at] nyu [dot] edu](mailto:xichenpan@nyu.edu)_
 
-*:fontawesome-solid-inbox: Personal Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)*
+_:fontawesome-solid-inbox: Personal Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)_
 
 <span style=font-size:2em;">[:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-x-twitter:](https://twitter.com/xichen_pan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/xichenpan)</span>
 
@@ -21,6 +21,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 ## Research Interest
 
 ### Generative Models
+
 Designing more controlable and high fidelity methods for image, video, and 3D generation, with a focus on:
 
 - Preserving spatial and temporal consistency
@@ -28,6 +29,7 @@ Designing more controlable and high fidelity methods for image, video, and 3D ge
 - Leveraging text-to-image priors for advanced applications
 
 ### Multimodal Learning
+
 Developing vision-language models for vision-centric applications, focusing on representation learning and self-supervised pre-training
 
 ## News
@@ -50,15 +52,15 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 ### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em; border-radius: 0.5em;"}
 
-*Sept. 2023 -- Present*
+_Sept. 2023 -- Present_
 
-***Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)*
+**\*Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)\*
 
 ### Shanghai Jiao Tong University![Image title](images/favicon.png){ align=right style="height:6em; border-radius: 0.5em;"}
 
-*Sept. 2018 -- June 2022*
+_Sept. 2018 -- June 2022_
 
-***B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by Prof. [Zhouhan Lin](https://hantek.github.io/)*
+**\*B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by Prof. [Zhouhan Lin](https://hantek.github.io/)\*
 
 ## Publications & Manuscripts
 
@@ -66,62 +68,63 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 [Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
 
-*In Submission*&nbsp;&nbsp; [:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
+_In Submission_&nbsp;&nbsp; [:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
 
 **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
 
 <u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
 
-*ICLR 2024*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/kosmosg/)
+_ICLR 2024_&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/kosmosg/)
 
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
 <u>Xichen Pan</u>, [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en), [Yuhong Li](https://colfire.github.io/), [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en), [Wenhu Chen](https://wenhuchen.github.io/)
 
-*[WACV 2024 (Oral, Top 6% of accepted papers)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)*&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
+_[WACV 2024 (Oral, Top 6% of accepted papers)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)_&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
 <u>Xichen Pan</u>
 
-*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)*&nbsp;&nbsp;[:fontawesome-regular-newspaper: News](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)&nbsp;&nbsp;[:fontawesome-solid-graduation-cap: Honor Roll](https://sjcg.jwc.sjtu.edu.cn/)
+_Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)_&nbsp;&nbsp;[:fontawesome-regular-newspaper: News](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)&nbsp;&nbsp;[:fontawesome-solid-graduation-cap: Honor Roll](https://sjcg.jwc.sjtu.edu.cn/)
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
 <u>Xichen Pan</u>, [Peiyu Chen](https://www.linkedin.com/in/peiyu-chen-9b407a218/), [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en), [Helong Zhou](https://scholar.google.com/citations?user=wkhOMMwAAAAJ&hl=zh-CN), [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/), [Zhouhan Lin](https://hantek.github.io/)
 
-*[ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/)*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
+_[ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/)_&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
 ## Experience
+
 **Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*Dec. 2022 – Sept. 2023*
+_Dec. 2022 – Sept. 2023_
 
-*StarBridge Program Research Assistant*
+_StarBridge Program Research Assistant_
 
 **Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*Sept. – Dec. 2022*
+_Sept. – Dec. 2022_
 
-*Research Intern*
+_Research Intern_
 
 **Horizon Robotics**![Image title](images/horizon.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*Apr. 2021 – July 2022*
+_Apr. 2021 – July 2022_
 
-*Research Intern*
+_Research Intern_
 
 **John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**![Image title](images/favicon.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*Apr. 2021 – June 2022*
+_Apr. 2021 – June 2022_
 
-*Research Intern*
+_Research Intern_
 
 **NSF Center for Big Learning, University of Florida**![Image title](images/uf.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*July – Sept. 2020*
+_July – Sept. 2020_
 
-*Research Intern*
+_Research Intern_
 
 ## Selected Projects
 
@@ -134,26 +137,26 @@ An open-source GitHub page built for reference in selecting CS programs in north
 [Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
 
 ??? tip "Some of My Friends"
-    Cornell: [Youming Deng](https://denghilbert.github.io/) 
+Cornell: [Youming Deng](https://denghilbert.github.io/)
 
     Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
-    
+
     Neon, Inc.: [Alex Chi (Prev: CMU)](https://www.skyzh.dev/)
 
     New York University: [Hexu Zhao](https://tarzanzhao.github.io/)
-    
+
     Ohio State University: [Kai Zhang](https://drogozhang.github.io/)
-    
+
     Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/), [Yanjie Ze](https://yanjieze.com/), [Junyi Zhang](https://www.junyi42.com/)
 
     UC Berkeley: [Yichuan Wang](https://yichuan520030910320.github.io/)
-    
+
     UC Santa Barbara: [Kexun Zhang](https://zkx06111.github.io/)
 
     UMich: [Yiming Dou](https://dou-yiming.github.io/)
-                         
+
     University of Washington: [Zihan Li](https://huanglizi.github.io/)
-    
+
     USC: [Di Chang](https://boese0601.github.io/)
 
 <div align="center">
@@ -166,4 +169,5 @@ An open-source GitHub page built for reference in selecting CS programs in north
     <div align="center" style="width:20%">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
     </div>
+
 </div>
