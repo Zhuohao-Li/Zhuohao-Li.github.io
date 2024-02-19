@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #1772d0;
+  color: #952c37;
   text-decoration: none;
 }
 
@@ -420,13 +420,14 @@ university {
   
   .section-heading {
     padding: 5px;
-    font-family: 'Arial', sans-serif;
+    font-family: 'sans-serif', sans-serif;
     font-size: 28px;
     font-weight: bold;
-    color: rgba(78, 60, 182, 0.548);
+    /* color: rgba(78, 60, 182, 0.548); */
+    color: #000;
     background-color: #fff;
     border-radius: 5px 5px 0px 0px;
-    text-align: center;
+    text-align: left;
   }
   
   
