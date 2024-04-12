@@ -276,6 +276,10 @@ body.scrolled header {
   color: #f09228;
   }
 
+  profile-email {
+    text-align: center;
+  }
+
   /* Body */
 body {
   font-family: 'Helvetica Neue', sans-serif;
