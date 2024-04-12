@@ -430,12 +430,22 @@ university {
     text-align: left;
   }
   
-  
+  .section-image-small {
+    padding: 10px;
+    vertical-align: middle;
+    text-align: center;
+  }
+
+  .section-image-small img {
+    max-height: 60px;
+  }
+
   .section-image {
     padding: 10px;
     vertical-align: middle;
     text-align: center;
   }
+  
   .section-image-large {
     padding: 10px;
     vertical-align: middle;
