@@ -430,6 +430,16 @@ university {
     text-align: left;
   }
   
+  .section-image-extreme {
+    padding: 10px;
+    vertical-align: middle;
+    text-align: center;
+  }
+
+  .section-image-extreme img {
+    max-height: 30px;
+  }
+
   .section-image-small {
     padding: 10px;
     vertical-align: middle;
@@ -437,7 +447,7 @@ university {
   }
 
   .section-image-small img {
-    max-height: 30px;
+    max-height: 50px;
   }
 
   .section-image {
